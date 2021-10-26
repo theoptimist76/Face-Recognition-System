@@ -28,7 +28,7 @@ $ python app.py
 
 ### Add a User <br>
 Add the user you want to train a classifier for(Add by giving underscore to name and surnames and numbers) <br>
-![page1](https://ibb.co/w7Xq74f)
+![page1](https://github.com/theoptimist76/Face-Recognition-System/blob/main/snapshots/adduser.PNG)
 
 ### Capture Data and Train Classifier<br>
 Capture Data From the face then train the classifier<br>
