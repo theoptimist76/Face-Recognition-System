@@ -24,7 +24,7 @@ $ python app.py
 ## APP GUI
 
 ### Home Page
-![homepage](https://ibb.co/wJBZcq5)
+![homepage](https://github.com/theoptimist76/Face-Recognition-System/blob/main/snapshots/homepage.PNG)
 
 ### Add a User <br>
 Add the user you want to train a classifier for(Add by giving underscore to name and surnames and numbers) <br>
@@ -32,25 +32,25 @@ Add the user you want to train a classifier for(Add by giving underscore to name
 
 ### Capture Data and Train Classifier<br>
 Capture Data From the face then train the classifier<br>
-![page2](https://ibb.co/m8wJQPT)
+![page2](https://github.com/theoptimist76/Face-Recognition-System/blob/main/snapshots/captureimage.PNG)
 <br>
 
 
 ### User Detected<br>
 Detect the user<br>
-![page3](https://ibb.co/ykQ675Y)
+![page3](https://github.com/theoptimist76/Face-Recognition-System/blob/main/snapshots/facedetected.PNG)
 <br>
 
 ### Capture Data<br>
 Capture the data of user<br>
-![page4](https://ibb.co/m8wJQPT)
+![page4](https://github.com/theoptimist76/Face-Recognition-System/blob/main/snapshots/captureimage.PNG)
 <br>
 
 ### Recognition <br>
 A webcam window will popup and start recognition proccess<br>
-![page5](https://ibb.co/f0xgtFL)<br>
->![Face Recognition](https://ibb.co/KWmzF7m)<br>
->![Valid](https://ibb.co/rQg4X4Z)<br>
+![page5](https://github.com/theoptimist76/Face-Recognition-System/blob/main/snapshots/recognizer.PNG)<br>
+>![Face Recognition](https://github.com/theoptimist76/Face-Recognition-System/blob/main/snapshots/recognized.PNG)<br>
+>![Valid](https://github.com/theoptimist76/Face-Recognition-System/blob/main/snapshots/valid.PNG)<br>
 
 
 <br><br>
