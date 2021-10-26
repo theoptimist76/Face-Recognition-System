@@ -24,28 +24,33 @@ $ python app.py
 ## APP GUI
 
 ### Home Page
-![homepage]
+![homepage](https://ibb.co/wJBZcq5)
 
 ### Add a User <br>
 Add the user you want to train a classifier for(Add by giving underscore to name and surnames and numbers) <br>
-![page1]
-
+![page1](https://ibb.co/w7Xq74f)
 
 ### Capture Data and Train Classifier<br>
 Capture Data From the face then train the classifier<br>
-![page2]\<br>
+![page2](https://ibb.co/m8wJQPT)
+<br>
 
-### Users List<br>
-List of all the users<br>
-![page3]<br>
+
+### User Detected<br>
+Detect the user<br>
+![page3](https://ibb.co/ykQ675Y)
+<br>
+
+### Capture Data<br>
+Capture the data of user<br>
+![page4](https://ibb.co/m8wJQPT)
+<br>
 
 ### Recognition <br>
 A webcam window will popup and start recognition proccess<br>
-![page4]<br>
->![Face Recognition]<br>
->![emotion]<br>
->![Age and Gender]<br>
-
+![page5](https://ibb.co/f0xgtFL)<br>
+>![Face Recognition](https://ibb.co/KWmzF7m)<br>
+>![Valid](https://ibb.co/rQg4X4Z)<br>
 
 
 <br><br>
