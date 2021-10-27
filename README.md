@@ -58,6 +58,6 @@ A webcam window will popup and start recognition proccess<br>
 Made with ❤ : [BEIT Six Semester Group]<br>
 
 # YES OF COURSE ITS OPEN-SOURCE
-
+## Fork and star this repository if you liked it.
 
 
